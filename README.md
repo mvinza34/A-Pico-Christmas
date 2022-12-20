@@ -1,6 +1,6 @@
 # A Pico Christmas
 
-This is a christmas-themed project that features flowing LEDs, an LCD display, and a buzzer playing christmas tunes; all done on the Raspberry Pi Pico. Credit for the "buzzer_music.py" code goes to james1236. See the buzzer_music repository for more information. The programs for the LCD can be found at https://www.tomshardware.com/how-to/lcd-display-raspberry-pi-pico
+This is a christmas-themed project that features flowing LEDs, an LCD display, and a buzzer playing christmas tunes; all done on the Raspberry Pi Pico. Credit for the "buzzer_music.py" code goes to james1236 via the "buzzer_music" repository. Check out https://github.com/james1236/buzzer_music for more information. Credit for the lcd_api.py and pico_l2c_lcd.py programs goes to Tom's Hardware and can be found at https://www.tomshardware.com/how-to/lcd-display-raspberry-pi-pico
 
 <br>
 
