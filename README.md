@@ -6,10 +6,11 @@ This is a christmas-themed project that features 18 flowing LEDs, an LCD display
 ### Components
 1) 1 Raspberry Pi Pico
 2) 2 solderless breadboards
-3) 18 LEDs (6 reds, 6 greens, 6 whites)
-4) 18 330 Ω resistors
-5) 4 buzzers (active or passive)
-6) 1 I2C LCD 1602
+3) 1 solderless mini-breadboard
+4) 18 LEDs (6 reds, 6 greens, 6 whites)
+5) 18 330 Ω resistors
+6) 4 buzzers (active or passive)
+7) 1 I2C LCD 1602
 
 ### Usage
 1) Design the circuit based on the provided breadboard and schematic below:
