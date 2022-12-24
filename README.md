@@ -4,7 +4,9 @@
 This is a christmas-themed project that features 18 flowing LEDs, an LCD display, and four buzzers playing three classic christmas tunes; all done on the Raspberry Pi Pico. Credit for the "buzzer_music.py" code goes to james1236 via the buzzer_music repository. Check out https://github.com/james1236/buzzer_music for more information. Credit for the "lcd_api.py" and "pico_l2c_lcd.py" programs goes to Tom's Hardware and can be found at https://www.tomshardware.com/how-to/lcd-display-raspberry-pi-pico
 
 ![image](https://user-images.githubusercontent.com/89809703/209413903-968cd877-4560-4870-a375-1aa92cc34f86.png)
-
+![image](https://user-images.githubusercontent.com/89809703/209414402-0d728c62-0915-44a4-bc5c-1fe5ad4bf061.png)
+![image](https://user-images.githubusercontent.com/89809703/209414418-aa10bc0b-70f5-4a07-8d53-8c71f70d9a9f.png)
+![image](https://user-images.githubusercontent.com/89809703/209414422-368a7cb7-755f-426c-bcbe-ec50498e0af1.png)
 
 ### Components
 1) 1 Raspberry Pi Pico
