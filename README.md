@@ -17,7 +17,7 @@ This is a christmas-themed project that features 18 flowing LEDs, an LCD display
 6) 4 buzzers (active or passive)
 7) 1 I2C LCD 1602
 
-### Usage
+### Instructions
 1) Design the circuit based on the provided breadboard image and schematic below:
   
 ![Pico_Christmas_bb](https://user-images.githubusercontent.com/89809703/209020714-17f6809c-ee7f-41de-b96a-2075a4b1517e.jpg)
