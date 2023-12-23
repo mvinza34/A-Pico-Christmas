@@ -1,7 +1,7 @@
 # A Pico Christmas
 
-### Oveview
-This is a christmas-themed project that features 18 flowing LEDs, an LCD display, and four buzzers playing three classic christmas tunes; all done on the Raspberry Pi Pico. Credit for the "buzzer_music.py" code goes to james1236 via the buzzer_music repository. Check out https://github.com/james1236/buzzer_music for more information. Credit for the "lcd_api.py" and "pico_l2c_lcd.py" programs goes to Tom's Hardware and can be found at https://www.tomshardware.com/how-to/lcd-display-raspberry-pi-pico
+### Overview
+This is a Christmas-themed project that features 18 flowing LEDs, an LCD display, and four buzzers playing three classic Christmas tunes; all done on the Raspberry Pi Pico. Credit for the "buzzer_music.py" code goes to james1236 via the buzzer_music repository. Check out https://github.com/james1236/buzzer_music for more information. Credit for the "lcd_api.py" and "pico_l2c_lcd.py" programs goes to Tom's Hardware and can be found at https://www.tomshardware.com/how-to/lcd-display-raspberry-pi-pico
 
 ![image](https://user-images.githubusercontent.com/89809703/209413903-968cd877-4560-4870-a375-1aa92cc34f86.png)
 ![image](https://user-images.githubusercontent.com/89809703/209414402-0d728c62-0915-44a4-bc5c-1fe5ad4bf061.png)
@@ -27,7 +27,7 @@ This is a christmas-themed project that features 18 flowing LEDs, an LCD display
 3) Open Thonny and install Micropython on the Pico. 
 4) Copy the files in this repository to the Pico.
 5) Open A_Pico_Christmas.py
-6) Find some holiday-themed music on onlinesequencer.net, click edit, select all notes with CTRL + A and then copy them with CTRL + C.
+6) Find some holiday-themed music on onlinesequencer.net, click edit, select all notes with CTRL + A, and then copy them with CTRL + C.
 7) Paste the string in place of the one in the example file, making sure to remove the "Online Sequencer:120233:" from the start and the ";:" from the end.
 8) Run the code.
-9) Enjoy the music and lights and have a wonderful Happy Hoildays! 
+9) Enjoy the music and lights and have a wonderful Happy Holidays! 
